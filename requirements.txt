@@ -1,0 +1,8 @@
+
+streamlit
+google-genai
+python-dotenv
+requests
+Pillow
+gTTS
+moviepy==1.0.3
